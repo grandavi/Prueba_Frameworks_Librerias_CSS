@@ -31,7 +31,7 @@
 }
 .logoset{
   width: 11%;
-  margin-top: -10px;
+  margin-top: 5px;
   margin-left: 5px;
 }
 .contenedorgeneral{
@@ -82,4 +82,16 @@
   font-family: 'Raleway', sans-serif;
   color: white;
   text-shadow: 1px 1px #9FAE94;
+}
+.imgcomentario{
+  width: 10%;
+  height: 10%;
+}
+.calloutcoment{
+  margin-left: 2%;
+}
+@media (max-width: 900px){
+  .logomedium{
+    margin-top: 2%;
+  }
 }
