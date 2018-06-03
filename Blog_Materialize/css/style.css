@@ -40,3 +40,16 @@
   border-radius: 2px;
   box-shadow: 1px -1px 6px #2F3F50;
 }
+.cardtext{
+  font-family: 'Nunito';
+  font-size: 13px;
+  border-radius: 3px;
+  text-align: justify;
+}
+.comentariotext{
+  margin-left: 20px;
+  color: white;
+}
+.perfilautor{
+  margin-left: 15px;
+}
