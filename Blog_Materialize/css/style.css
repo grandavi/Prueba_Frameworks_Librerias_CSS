@@ -8,14 +8,16 @@
   width: 120px;
   margin-top: 10px;
 }
-.horizontal{
-  display: inline-block;
+.horizontal1{
+  display: inline;
   margin-left: 5px;
   font-family: 'Bowlby One SC', cursiva;
   color: #2F3F50;
 }
 .botonmenu{
   margin-top: 30px;
+  margin-left: 2px;
+  float: right;
 }
 .colorcontent{
   background-color: rgba(47, 63, 80, 0.3);
@@ -28,7 +30,7 @@
   padding-top: 2px;
 }
 .socialcolumn{
-  margin-top: 30px;
+  margin-top: 5px;
 }
 .imagencontenedor{
   margin-top: 30px;
@@ -51,5 +53,12 @@
   color: white;
 }
 .perfilautor{
-  margin-left: 15px;
+  margin-left:
+}
+@media (max-width: 1000px){
+  .menumedsmall{
+    float: none;
+    display:block;
+    margin-top: 3px;
+  }
 }
