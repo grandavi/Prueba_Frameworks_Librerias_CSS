@@ -1,0 +1,32 @@
+.background{
+  background-image:url(../img/background.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.logo{
+  width: 120px;
+  margin-top: 10px;
+}
+.horizontal{
+  display: inline-block;
+  margin-left: 5px;
+  font-family: 'Bowlby One SC', cursiva;
+  color: #2F3F50;
+}
+.botonmenu{
+  margin-top: 30px;
+}
+.colorcontent{
+  background-color: rgba(47, 63, 80, 0.3);
+  border-radius: 2px;
+}
+.socialbuttons{
+  width: 45px;
+  margin-top: -3px;
+  margin-left: -1px;
+  padding-top: 2px;
+}
+.socialcolumn{
+  margin-top: 30px;
+}
